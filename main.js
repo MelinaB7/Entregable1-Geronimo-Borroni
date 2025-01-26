@@ -3,7 +3,7 @@ function calculadora() {
   
 
 let calculadoraSigue = true
-const texto = ["Ingrese el primer numero", "Para sumar: 1, Resta: 2, Multiplicacion:3, Divicion:4", "Ingrese el segundo numero"]
+const texto = ["Ingrese el primer numero", "Para sumar: 1, Resta: 2, Multiplicacion:3, Division:4", "Ingrese el segundo numero"]
 
 while (calculadoraSigue) {
 
