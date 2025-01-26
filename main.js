@@ -1,3 +1,7 @@
+
+function calculadora() {
+  
+
 let calculadoraSigue = true
 const texto = ["Ingrese el primer numero", "Para sumar: 1, Resta: 2, Multiplicacion:3, Divicion:4", "Ingrese el segundo numero"]
 
@@ -30,4 +34,6 @@ switch (operacion) {
   calculadoraSigue = confirm("Deseas realizar otra operacion?")
   }
     alert("¡Gracias por usar la calculadora!");
+  
+  } 
   
